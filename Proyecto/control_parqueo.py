@@ -9,9 +9,9 @@ import time
 from random import randrange
 import sys
 # credenciales de red y la plataforma
-wifi_ssid = "GearsCreative"
-wifi_password = "1511141098397jcaa5875"
-aio_key = "aio_nQOs07l1Oc8zass15tv4S3V4wVye"
+wifi_ssid = "Dark"
+wifi_password = "3i19-o1ru-abnr"
+aio_key = "aio_ZxXp83YqJGcef74dWfKvW8KAGSYM"
 username = "alejoproyectos"
 feed_name = "controlparking"
 # tupla con los numeros que se van a mostrar en el display y en la plataforma
