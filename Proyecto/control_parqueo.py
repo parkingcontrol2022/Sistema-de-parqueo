@@ -11,7 +11,7 @@ import sys
 # credenciales de red y la plataforma
 wifi_ssid = "Dark"
 wifi_password = "3i19-o1ru-abnr"
-aio_key = "aio_ZxXp83YqJGcef74dWfKvW8KAGSYM"
+aio_key = "aio_JRwg332c2uxhhux1cTIu4146HiVo"
 username = "alejoproyectos"
 feed_name = "controlparking"
 # tupla con los numeros que se van a mostrar en el display y en la plataforma
